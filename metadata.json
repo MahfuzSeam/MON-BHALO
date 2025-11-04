@@ -1,0 +1,7 @@
+{
+  "name": "মন ভালো - Mental Health Support",
+  "description": "A mental health support application for Bangladesh, providing mood tracking, anonymous help requests, health resources, and an AI-powered assistant. Re-implemented in React and Tailwind CSS.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
